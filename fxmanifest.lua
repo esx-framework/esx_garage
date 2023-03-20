@@ -17,4 +17,4 @@ client_scripts {'@es_extended/locale.lua', 'locales/*.lua', 'config.lua', 'clien
 
 ui_page 'nui/ui.html'
 
-files {'nui/ui.html', 'nui/js/*.js', 'nui/css/*.css', 'nui/img/*.png', 'nui/roboto.ttf'}
+files {'nui/ui.html', 'nui/js/*.js', 'nui/css/*.css', 'nui/roboto.ttf'}
