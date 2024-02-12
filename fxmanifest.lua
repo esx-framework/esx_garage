@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'ESX-Framework'
-description 'Official ESX Garage System for ESX Legacy'
+description 'Allows Players to Store & Retrieve their vehicles'
 
 version '1.0'
 legacyversion '1.9.1'
